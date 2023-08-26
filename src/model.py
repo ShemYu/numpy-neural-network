@@ -1,5 +1,6 @@
-import numpy as np
 import pickle
+
+import numpy as np
 
 from .utils.activate import sigmoid_function, softmax_function
 from .utils.gradients import dfunc
